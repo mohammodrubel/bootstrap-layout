@@ -1,0 +1,17 @@
+.header, .hero, .body, .footer
+{
+    margin-bottom: 10px;
+    background-color: red;
+}
+.box
+{
+    margin:10px 0px;
+    min-height: 80px;
+    background: chartreuse;
+    color: white;
+    font-size: 30px;
+}
+.red
+{
+    background: rgb(0, 0, 0);
+}
